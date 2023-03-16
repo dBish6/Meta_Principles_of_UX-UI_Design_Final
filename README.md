@@ -1,2 +1,2 @@
 # Meta_Principles_of_UX-UI_Design_Final
-Thought I would share my final quiz from the Meta Principles of UX-UI Design course.
+I would like to share my final quiz from the Meta Principles of UX/UI Design course. While I didn't have the opportunity to fully showcase my skills, I believe that my work demonstrates my understanding of the design process. The Figma file includes a persona, journey map, wireframe, and prototype, which collectively illustrates my approach to user-centered design.
